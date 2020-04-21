@@ -24,7 +24,7 @@ export default class App extends PureComponent {
         <Header />
         <SearchInput textChange={this.handleSearchChange} />
         <EmojiResults emojiData={this.state.filteredEmoji} />
-        <p>Testing Linc</p>
+        <p>Testing Changebot</p>
       </div>
     );
   }
